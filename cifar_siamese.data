@@ -1,0 +1,7 @@
+classes=2
+train  = data/cifar_siamese/train.list
+valid  = data/cifar_siamese/test.list
+test   = data/cifar_siamese/test.list
+labels = data/cifar_siamese/labels.txt
+backup = backup/
+top=2
